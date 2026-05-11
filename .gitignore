@@ -1,0 +1,21 @@
+# Credentials and sensitive files
+**/credentials.json
+.env
+*.pem
+*.key
+client_secret*.json
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# Data
+*.pkl
+*.jpeg
+*.jpg
+*.png
