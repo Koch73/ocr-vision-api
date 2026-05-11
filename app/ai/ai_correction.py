@@ -28,6 +28,7 @@ def correct_text(text: str):
                     - Respeta el idioma original del texto (español).
 
                     IMPORTANTE:
+                    - No agregues nada al inicio del texto, solo devuelve el texto limpio
                     - No resumas el contenido.
                     - No agregues interpretaciones ni conclusiones.
                     - No omitas información relevante aunque parezca redundante.
